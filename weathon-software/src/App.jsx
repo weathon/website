@@ -139,7 +139,7 @@ const App = () => {
 
           <p className="text-center">
             Github: {' '}
-            <a href="mailto:email@weasoft.com" className="text-blue-500">
+            <a href="https://github.com/weathon" className="text-blue-500">
               https://github.com/weathon
             </a>
           </p>
