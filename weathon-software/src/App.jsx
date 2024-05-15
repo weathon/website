@@ -20,7 +20,7 @@ const App = () => {
       <section className="bg-cover bg-center h-screen" style={{ backgroundImage: 'url(/public/bg.webp)' }}>
         <div className="bg-black bg-opacity-50 h-full flex items-center justify-center">
           <div className="text-center text-white">
-            <h2 className="text-4xl font-bold mb-4">Innovating with Machine Learning</h2>
+            <h2 className="text-4xl font-bold mb-4">Innovating with AI Applications</h2>
             <p className="mb-8">Delivering cutting-edge solutions in software development and research.</p>
             <a href="#about" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Learn More</a>
           </div>
