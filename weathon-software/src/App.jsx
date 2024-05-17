@@ -102,6 +102,7 @@ const App = () => {
                 <p className="flex-grow">We are developing advanced machine learning models to enhance chemistry education. Our goal is to create intelligent tutoring systems that provide personalized learning experiences for students.</p>
               </div>
             </div>
+
             <div className="w-full md:w-1/4 px-4 mb-8 flex">
               <div className="bg-white p-6 rounded-lg shadow-lg flex flex-col flex-grow">
                 <h4 className="text-xl font-semibold mb-2">Encoding Molecular Information</h4>
@@ -120,6 +121,21 @@ const App = () => {
                 <p className="flex-grow">We have developed a comprehensive bus pass application that streamlines the process of obtaining and managing bus passes for commuters. The app offers a user-friendly interface, real-time updates, and secure payment options to enhance the overall commuting experience.</p>
               </div>
             </div>
+
+            <div className="flex flex-wrap -mx-4">
+            <div className="w-full md:w-1/4 px-4 mb-8 flex">
+              <div className="bg-white p-6 rounded-lg shadow-lg flex flex-col flex-grow">
+                <h4 className="text-xl font-semibold mb-2">Social Compatibility Matching Algorithm</h4>
+                <p className="flex-grow">
+                  A social compatibility matching algorithm using metric search tree. This is a personal project of Marshall.  
+                  <a href="https://arxiv.org/abs/2303.11174">Read the paper</a>
+                </p>
+              </div>
+            </div>
+
+
+
+
           </div>
         </div>
       </section>
